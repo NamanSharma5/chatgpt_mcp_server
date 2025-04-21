@@ -1,5 +1,7 @@
-# chatgpt_mcp_server
-Since ChatGPT has memory it becomes a valuable data source for other models; facilitating a shared memory outside of a single model provider
+# ChatGPT Memory MCP Server
+*Under MIT License*
+
+Since ChatGPT has memory it becomes a valuable data source for other models; I'm facilitating a shared memory outside of a single model provider.
 
 To use this MCP server:
 1. Clone the repository
